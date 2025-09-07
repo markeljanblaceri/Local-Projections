@@ -1,4 +1,4 @@
-# Local Projections (LP) and LP-IV in MATLAB
+# Local Projections in MATLAB
 
 This repository provides simple MATLAB implementations of **Local Projections (LP)** and **Local Projections with Instrumental Variables (LP-IV)**.  
 
